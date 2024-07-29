@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment#4Android</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="details_name">Name</string>
+    <string name="details_phone_number">Phone Number</string>
+    <string name="details_description">Description</string>
+</resources>
